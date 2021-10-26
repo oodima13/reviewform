@@ -1,0 +1,38 @@
+.footer {
+  padding-top: 9px;
+  background: #2d2d2d;
+}
+
+.footer__text {
+  font-size: 14px;
+  font-weight: 300;
+}
+
+.footer__text a {
+  color: #fff;
+  font-weight: bold;
+}
+
+.footer__col_mid {
+  text-align: center;
+}
+
+.footer {
+  padding: 10px 0;
+}
+
+.footer__col_last {
+  text-align: right;
+}
+
+.bold-text {
+  font-weight: bold;
+}
+
+.footer__col {
+  display: inline-block;
+  width: 33.3%;
+  vertical-align: middle;
+  color: #fff;
+}
+
